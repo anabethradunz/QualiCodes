@@ -1,4 +1,4 @@
-#Author: Eduardo 
+#Author: Eduardo AAA
 #Script para a reprodução dos resultados obtidos no documento
 #de defesa de qualificação de doutorado.
 
